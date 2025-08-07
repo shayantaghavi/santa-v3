@@ -1,0 +1,50 @@
+public_html/
+├── app/
+│   ├── Controllers/
+│   │   ├── AuthController.php
+│   │   ├── AuthenticatedController.php
+│   │   ├── BaseController.php
+│   │   ├── DashboardController.php
+│   │   ├── SettingsController.php
+│   │   ├── SubscriptionController.php
+│   │   └── UserController.php  # 👈 فایل کنترلر کاربران
+│   │
+│   ├── Managers/
+│   │   ├── ConfigManager.php
+│   │   ├── DatabaseManager.php
+│   │   └── XuiApiManager.php
+│   │
+│   └── logs/
+│       ├── .htaccess
+│       └── xui_api_cache.json
+│
+├── config/
+│   ├── bootstrap.php
+│   ├── settings_data.json
+│   └── .htaccess
+│
+├── assets/
+│   └── (فایل‌های قالب Sneat در اینجا کپی می‌شوند)
+│
+├── routes/  # 👈 پوشه مسیرها
+│   └── web.php
+│
+├── views/
+│   ├── auth/
+│   │   └── login.php
+│   ├── layouts/
+│   │   └── app.php
+│   ├── pages/
+│   │   ├── dashboard.php
+│   │   ├── errors/
+│   │   │   └── 404.php
+│   │   ├── settings.php
+│   │   ├── subscription_info.php
+│   │   ├── templates.php
+│   │   ├── users_create.php
+│   │   ├── users_edit.php
+│   │   └── users.php
+│   └── .htaccess
+│
+├── .htaccess
+└── index.php
