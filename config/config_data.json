@@ -1,0 +1,16 @@
+{
+    "templateLinks": {
+        "WS3": "vless://UUID@apiv2.sinabin.ir:8443?encryption=none&decryption=none&security=reality&sni=aparat.com&fp=chrome&pbk=DUZLBlnWowIQqc_95bn-HSAFItepT3x7ql7V71yShno&sid=eea4da&type=grpc&authority=aparat.com&serviceName=%2Flive&mode=gun#USER-Reality",
+        "Fastly": "vless://UUID@199.232.220.50:443?encryption=none&decryption=none&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&sni=Simanta.global.ssl.fastly.net&path=%2FSolana_shir%40nadare%2F%3Fed%3D1024&mode=auto#USER-",
+        "FastlyG": "vless://UUID@199.232.220.50:443?encryption=none&decryption=none&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&sni=falconq110.global.ssl.fastly.net&path=%2FSolana_shir%40nadare%2F%3Fed%3D1024&mode=auto#USER-Fastly",
+        "HTTP": "vless://UUID@188.114.98.224:2052?encryption=none&decryption=none&security=none&type=httpupgrade&host=all-Htp2.jarookesh.ir&path=%2Fasemanabri%3Fed%3D1024#USER-HTTP",
+        "Iran": "vless://UUID@edge.jarookesh.ir:443?encryption=none&decryption=none&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&path=%2Fnewsbabylon#Iran-Tunnel",
+        "Iran2": "vless://UUID@edge.jarookesh.ir:2083?encryption=none&decryption=none&security=none&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnewbarcelonanews&mode=auto#Iran-Tunnel2",
+        "WS": "vless://UUID@cloudflare.net:443?encryption=none&decryption=none&security=tls&sni=all-ws2.jarookesh.ir&alpn=h3%2Ch2&fp=chrome&allowInsecure=1&type=ws&host=&path=%2Flasso%40Arezoo_tk%2F%3Fed%3D2048#USER-WS"
+    },
+    "userConfigs": [],
+    "excludedConfigs": [],
+    "connectionBasedConfigs": [],
+    "trojBasedConfigs": [],
+    "globallyDisabledTemplates": []
+}

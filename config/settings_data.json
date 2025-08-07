@@ -1,0 +1,15 @@
+{
+    "admin_user": {
+        "username": "admin",
+        "password": "Mostafa1"
+    },
+    "fixed_expiry_timestamp": 1755631800,
+    "telegram_support_url": "https://t.me/Test",
+    "default_total_traffic_gb": 500,
+    "db_settings": {
+        "db_host": "localhost",
+        "db_user": "masonii1_xuiuser",
+        "db_pass": "Mostafa12!",
+        "db_name": "masonii1_xuiuser"
+    }
+}
